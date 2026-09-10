@@ -35,6 +35,7 @@
 **Databases** &nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat-square&logo=mysql)
+![Redis](https://img.shields.io/badge/-Redis-333333?style=flat-square&logo=redis)
 
 **Cloud & DevOps** &nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat-square&logo=amazon-aws)
@@ -47,5 +48,6 @@
 ![Static Badge](https://img.shields.io/badge/Jupyter-%23F37626?style=flat-square&logo=Jupyter&color=%23333333)
 
 **Tools & Design** &nbsp;
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat-square&logo=postman)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat-square&logo=figma)
 ![Static Badge](https://img.shields.io/badge/Git-%23F03C2E?style=flat-square&logo=git&color=%23333333)
