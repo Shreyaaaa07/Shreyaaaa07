@@ -48,12 +48,6 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat-square&logo=firebase)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat-square&logo=docker)
 
-**AI/ML** &nbsp;
-![Static Badge](https://img.shields.io/badge/Pandas-%23150458?style=flat-square&logo=Pandas&color=%23333333)
-![Static Badge](https://img.shields.io/badge/Scikit_Learn-%23F7931E?style=flat-square&logo=scikitlearn&color=%23333333)
-![Static Badge](https://img.shields.io/badge/Anaconda-%2344A833?style=flat-square&logo=anaconda&color=%23333333)
-![Static Badge](https://img.shields.io/badge/Jupyter-%23F37626?style=flat-square&logo=Jupyter&color=%23333333)
-
 **Tools & Design** &nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat-square&logo=postman)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat-square&logo=figma)
@@ -61,3 +55,24 @@
 ![Static Badge](https://img.shields.io/badge/Blender-%23E87D0D?style=flat-square&logo=Blender&color=%23333333)
 ![Static Badge](https://img.shields.io/badge/Davinci_Resolve-%23233A51?style=flat-square&logo=davinciresolve&color=%23333333)
 ![Static Badge](https://img.shields.io/badge/Git-%23F03C2E?style=flat-square&logo=git&color=%23333333)
+
+## AI/ML
+
+**Libraries** &nbsp;
+![Static Badge](https://img.shields.io/badge/Pandas-%23150458?style=flat-square&logo=Pandas&color=%23333333)
+![Static Badge](https://img.shields.io/badge/openCV-%235C3EE8?style=flat-square&logo=opencv&color=333333)
+![Static Badge](https://img.shields.io/badge/NumPy-%23013243?style=flat-square&logo=numpy&color=333333)
+![Static Badge](https://img.shields.io/badge/Plotly-%237A76FF?style=flat-square&logo=plotly&color=333333)
+![Static Badge](https://img.shields.io/badge/Seaborn-%237A76FF?style=flat-square&color=333333)
+![Static Badge](https://img.shields.io/badge/Matplotlib-%23013243?style=flat-square&color=333333)
+![Static Badge](https://img.shields.io/badge/MediaPipe-%230097A7?style=flat-square&logo=mediapipe&color=333333)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Static Badge](https://img.shields.io/badge/Scikit_Learn-%23F7931E?style=flat-square&logo=scikitlearn&color=%23333333)
+![Static Badge](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=flat-square&logo=pytorch&color=333333)
+![Static Badge](https://img.shields.io/badge/TenserFlow-%23FF6F00?style=flat-square&logo=tensorflow&color=333333)
+
+
+**Tools** &nbsp;
+![Static Badge](https://img.shields.io/badge/Anaconda-%2344A833?style=flat-square&logo=anaconda&color=%23333333)
+![Static Badge](https://img.shields.io/badge/Jupyter-%23F37626?style=flat-square&logo=Jupyter&color=%23333333)
+
